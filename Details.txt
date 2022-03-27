@@ -1,0 +1,4 @@
+Bank Name ICICI
+Bank Number 1234567890
+Bank Location New Delhi
+Bank Timings 10:00 am to 4:00 pm
